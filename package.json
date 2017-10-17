@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "socksv5": "0.0.6"
+    "socksv5": "github:ajimix/socksv5#patch-1"
   }
 }
